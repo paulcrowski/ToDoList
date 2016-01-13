@@ -1,2 +1,1 @@
-# ToDoList
- made in JS with help tematreehouse course
+ToDoList made in JS with help tematreehouse course
